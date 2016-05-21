@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/bootstrap-breakpointify.svg)](https://www.npmjs.com/package/bootstrap-breakpointify) [![GitHub issues](https://img.shields.io/github/issues/bitjson/bootstrap-breakpointify.svg)](https://github.com/bitjson/bootstrap-breakpointify/issues) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/bitjson/bootstrap-breakpointify/master/LICENSE)
+
 # bootstrap-breakpointify
 Fight "class creep" by adding breakpoint suffixes to [Bootstrap v4's utility classes][utils].
 
@@ -14,6 +16,12 @@ Especially when "one-use" classes are repeatedly developed (eg: when a website c
 Using "breakpointified" utilities can help slow this "class creep" in your projects.
 
 ## Install
+
+```bash
+npm install bootstrap-breakpointify
+```
+
+Or:
 
 ```bash
 bower install bootstrap-breakpointify
