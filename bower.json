@@ -4,7 +4,7 @@
   "authors": [
     "Jason Dreyzehner <jason@dreyzehner.com>"
   ],
-  "description": "Add breakpoint suffixes to Bootstrap v4's utility classes.",
+  "description": "Fight class creep by adding breakpoint suffixes to Bootstrap v4's utility classes.",
   "main": "all.scss",
   "moduleType": [],
   "keywords": [
