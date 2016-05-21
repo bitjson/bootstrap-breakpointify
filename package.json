@@ -1,22 +1,25 @@
 {
   "name": "bootstrap-breakpointify",
-  "version": "1.0.1",
-  "description": "Add breakpoint suffixes to Bootstrap v4's utility classes.",
+  "version": "2.0.0-dev",
+  "description": "Fight class creep by adding breakpoint suffixes to Bootstrap v4's utility classes.",
   "main": "all.scss",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/builddigital/bootstrap-breakpointify.git"
+    "url": "git+https://github.com/bitjson/bootstrap-breakpointify.git"
   },
   "keywords": [
     "sass",
     "scss",
     "bootstrap",
-    "breakpointify"
+    "breakpoints",
+    "breakpointify",
+    "utility",
+    "classes"
   ],
   "author": "Jason Dreyzehner <jason@dreyzehner.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/builddigital/bootstrap-breakpointify/issues"
+    "url": "https://github.com/bitjson/bootstrap-breakpointify/issues"
   },
-  "homepage": "https://github.com/builddigital/bootstrap-breakpointify#readme"
+  "homepage": "https://github.com/bitjson/bootstrap-breakpointify#readme"
 }
